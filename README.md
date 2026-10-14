@@ -24,3 +24,6 @@ npm run dev
 - src/pages: Landing, Login, Register, Customer, Employee, Admin, Profile
 - src/components: Layout (sidebar + topbar), ui (cards, tables, modal, toast), charts (SVG)
 - src/context: AuthContext (session + token)
+
+## Web Link 
+  https://iamtbank.vercel.app/
